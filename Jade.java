@@ -1,1 +1,2 @@
-/*Java Class for the Main Character*/
+/*Java Class for the Main Character*/\
+/*FUN*/
